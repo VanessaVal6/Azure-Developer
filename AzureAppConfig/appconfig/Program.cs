@@ -38,4 +38,3 @@ catch (Exception ex)
 {
     Console.WriteLine($"Error connecting to Azure App Configuration: {ex.Message}");
 }
-
