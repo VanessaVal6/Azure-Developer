@@ -1,0 +1,76 @@
+{
+  "additionalLocations": null,
+  "apiVersionConstraint": {
+    "minApiVersion": null
+  },
+  "certificates": null,
+  "createdAtUtc": "2026-02-25T11:30:20.323094+00:00",
+  "customProperties": {
+    "Microsoft.WindowsAzure.ApiManagement.Gateway.Protocols.Server.Http2": "False",
+    "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Backend.Protocols.Ssl30": "False",
+    "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Backend.Protocols.Tls10": "False",
+    "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Backend.Protocols.Tls11": "False",
+    "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Protocols.Tls10": "False",
+    "Microsoft.WindowsAzure.ApiManagement.Gateway.Security.Protocols.Tls11": "False"
+  },
+  "developerPortalUrl": null,
+  "disableGateway": false,
+  "enableClientCertificate": null,
+  "etag": "AAAAACx2+wk=",
+  "gatewayRegionalUrl": null,
+  "gatewayUrl": "https://import-apim-59464767.azure-api.net",
+  "hostnameConfigurations": [
+    {
+      "certificate": null,
+      "certificatePassword": null,
+      "certificateSource": "BuiltIn",
+      "certificateStatus": null,
+      "defaultSslBinding": true,
+      "encodedCertificate": null,
+      "hostName": "import-apim-59464767.azure-api.net",
+      "identityClientId": null,
+      "keyVaultId": null,
+      "negotiateClientCertificate": false,
+      "type": "Proxy"
+    }
+  ],
+  "id": "/subscriptions/813202b7-9c14-42b6-8614-7206e3317c62/resourceGroups/myResourceGrouplod59464767/providers/Microsoft.ApiManagement/service/import-apim-59464767",
+  "identity": null,
+  "location": "East US 2",
+  "managementApiUrl": null,
+  "name": "import-apim-59464767",
+  "natGatewayState": "Disabled",
+  "notificationSenderEmail": "ladvanesa@hotmail.com",
+  "outboundPublicIpAddresses": null,
+  "platformVersion": "mtv1",
+  "portalUrl": null,
+  "privateEndpointConnections": null,
+  "privateIpAddresses": null,
+  "provisioningState": "Succeeded",
+  "publicIpAddressId": null,
+  "publicIpAddresses": null,
+  "publicNetworkAccess": "Enabled",
+  "publisherEmail": "ladvanesa@hotmail.com",
+  "publisherName": "Import-API-Exercise",
+  "resourceGroup": "myResourceGrouplod59464767",
+  "restore": null,
+  "scmUrl": null,
+  "sku": {
+    "capacity": 0,
+    "name": "Consumption"
+  },
+  "systemData": {
+    "createdAt": "2026-02-25T11:30:19.758401+00:00",
+    "createdBy": "LabUser-59464767@cloudslice.onmicrosoft.com",
+    "createdByType": "User",
+    "lastModifiedAt": "2026-02-25T11:30:19.758401+00:00",
+    "lastModifiedBy": "LabUser-59464767@cloudslice.onmicrosoft.com",
+    "lastModifiedByType": "User"
+  },
+  "tags": {},
+  "targetProvisioningState": "",
+  "type": "Microsoft.ApiManagement/service",
+  "virtualNetworkConfiguration": null,
+  "virtualNetworkType": "None",
+  "zones": null
+}
