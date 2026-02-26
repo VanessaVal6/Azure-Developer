@@ -1,0 +1,6 @@
+total 8
+drwxrwxrwx+  2 codespace codespace 4096 Feb 26 09:42 ./
+drwxrwxrwx+ 13 codespace root      4096 Feb 26 09:08 ../
+-rw-rw-rw-   1 codespace codespace    0 Feb 26 09:17 .env
+-rw-rw-rw-   1 codespace codespace    0 Feb 26 09:49 vane.txt
+-rw-rw-rw-   1 codespace codespace    0 Feb 26 09:42 vane_downloaded.txt
