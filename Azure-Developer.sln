@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure-Developer", "Azure-De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphapp", "graphapp\graphapp.csproj", "{BE2CFDA0-D6F0-A8CA-73B7-66C375FB2AE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appconfig", "appconfig\appconfig.csproj", "{9ECB9376-44CC-0558-9949-DD4DA45CD544}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appconfig", "AzureAppConfig\appconfig\appconfig.csproj", "{9ECB9376-44CC-0558-9949-DD4DA45CD544}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "authapp", "authapp\authapp.csproj", "{ED2F5FA7-4C8F-E286-BAFD-1B959AD576DA}"
 EndProject
